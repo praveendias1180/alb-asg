@@ -1,3 +1,3 @@
 # Load Balancers
 
-![](start.png)
+![](types.png)
